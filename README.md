@@ -2,7 +2,7 @@
 
 
 
-##### API HelpDesk Back-End
+##### HelpDesk Back-End
 
 
 Esse projeto foi desenvolvido utilizando maven com java.
